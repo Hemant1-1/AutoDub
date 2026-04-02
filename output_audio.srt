@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:09,000
+Hey there coders! Today we're exploring Python variables. Think of variables as containers for storing data values.
+
+2
+00:00:09,000 --> 00:00:15,000
+In Python, creating a variable is as simple as assigning a value to it.
+
+3
+00:00:15,000 --> 00:00:27,000
+Here's an example. In this code, X is a variable that holds the number 5, which is an integer, and Y is a variable that holds the text John, which is a string.
+
+4
+00:00:28,000 --> 00:00:36,000
+Python doesn't need a special command to declare a variable. It's created the moment you assign it a value.
+
+5
+00:00:36,000 --> 00:00:45,000
+Variables in Python are dynamic. They don't need to be of a specific type, and can change type after being set.
+
+6
+00:00:45,000 --> 00:00:53,000
+Here, X starts as an integer with the value 4, then changes to a string with the value Sally.
+
+7
+00:00:54,000 --> 00:00:59,000
+If you want to specify the data type of a variable, you can use casting.
+
+8
+00:00:59,000 --> 00:01:05,000
+This way, you can control the data type of your variables.
+
+9
+00:01:05,000 --> 00:01:10,000
+Want to know the type of a variable? Use the type function.
+
+10
+00:01:10,000 --> 00:01:19,000
+Here, type X returns class STR, type Y returns class int, and type Z returns class float.
+
+11
+00:01:19,000 --> 00:01:24,000
+In Python, strings can be declared with either single or double quotes.
+
+12
+00:01:24,000 --> 00:01:29,000
+Both lines do the same thing. It's up to you which style you prefer.
+
+13
+00:01:29,000 --> 00:01:33,000
+Remember, variable names in Python are case sensitive.
+
+14
+00:01:33,000 --> 00:01:37,000
+That means lowercase A and uppercase A are different variables.
+
+15
+00:01:37,000 --> 00:01:43,000
+In this case, lowercase A holds the integer 4, and uppercase A holds the string Sally.
+
+16
+00:01:43,000 --> 00:01:46,000
+One doesn't overwrite the other.
+
+17
+00:01:46,000 --> 00:01:50,000
+And that's a wrap on Python variables.
+
+18
+00:01:50,000 --> 00:01:54,000
+Keep practicing, and you'll be a Python pro in no time.
+
+19
+00:01:54,000 --> 00:01:58,000
+Thanks for watching! Like and subscribe to get notified about our latest videos.
+
+20
+00:01:58,000 --> 00:02:03,000
+For more coding tips and tricks, keep it locked right here on w3schools.com.
+
+21
+00:02:03,000 --> 00:02:10,000
+Don't forget to try out what you've learned in our interactive editor. Happy coding!
+
